@@ -1,0 +1,243 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Beats Stdio Wireless Headphones",
+      "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5920/5920901_rd.jpg",
+      "price": "$250.00",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nesciunt, rerum perspiciatis. Distinctio delectus nostrum nulla optio earum voluptatum et perferendis?",
+      "rates": "4",
+      "size": ["S", "M", "L", "XL"],
+
+      "reviews": [
+        "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad minima fugit quas architecto porro numquam ex nobis omnis excepturi blanditiis.",
+        "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad minima fugit quas architecto porro numquam ex nobis omnis excepturi blanditiis.",
+        "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad minima fugit quas architecto porro numquam ex nobis omnis excepturi blanditiis."
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Carola Plus Single Sofa",
+      "image": "https://www.cetmen.com.tr/carola-plus-tekli-koltuk-140046-tekli-koltuk-cetmen-664-42-B.png",
+      "price": "$299.90",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nesciunt, rerum perspiciatis. Distinctio delectus nostrum",
+      "rates": "2",
+      "size": ["S", "M", "L"],
+
+      "reviews": [
+        "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad minima fugit quas architecto porro numquam ex nobis omnis excepturi blanditiis.",
+        "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad minima fugit quas architecto porro numquam ex nobis omnis excepturi blanditiis."
+      ]
+    },
+    {
+      "id": "3",
+      "name": "MacBook M1",
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/macbook-air-space-gray-select-201810?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1633027804000",
+      "price": "$2999.90",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nesciunt, rerum perspiciatis. Distinctio delectus nostrum.Nesciunt, rerum perspiciatis. Distinctio delectus nostrum",
+      "rates": "3",
+      "size": ["S", "M"],
+
+      "reviews": [
+        "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad minima fugit quas architecto porro numquam ex nobis omnis excepturi blanditiis.",
+        "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad minima fugit quas architecto porro numquam ex nobis omnis excepturi blanditiis.",
+        "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad minima fugit quas architecto porro numquam ex nobis omnis excepturi blanditiis."
+      ]
+    },
+    {
+      "id": "4",
+      "name": "MacBook M2",
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mbp16-spacegray-select-202110_GEO_TR?wid=1808&hei=1686&fmt=jpeg&qlt=90&.v=1633657730000",
+      "price": "$3999.90",
+      "description": "Lorem, ipsum dolor sit amet consectetur ",
+      "rates": "2",
+      "size": ["S", "M", "L", "XL"],
+
+      "reviews": [
+        "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad minima fugit quas architecto porro numquam ex nobis omnis excepturi blanditiis.",
+        "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad minima fugit quas architecto porro numquam ex nobis omnis excepturi blanditiis.",
+        "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad minima fugit quas architecto porro numquam ex nobis omnis excepturi blanditiis."
+      ]
+    },
+    {
+      "id": "5",
+      "name": "SteelSeries Apex 3 TKL RGB Gaming Keyboard",
+      "image": "https://m.media-amazon.com/images/I/81dLH5W903L._AC_SX679_.jpg",
+      "price": "$44.98",
+      "description": "The compact tenkeyless design is the most popular form factor used by the pros, allowing you to position the keyboard for comfort and to maximize in-game performance. ",
+      "rates": "5",
+      "size": ["S", "M", "L", "XL"],
+
+      "reviews": [
+        "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad minima fugit quas architecto porro numquam ex nobis omnis excepturi blanditiis.",
+        "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad minima fugit quas architecto porro numquam ex nobis omnis excepturi blanditiis.",
+        "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad minima fugit quas architecto porro numquam ex nobis omnis excepturi blanditiis."
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Apple iPhone 13 Pro Max 256 GB 143442",
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-pro-max-graphite-select?wid=940&hei=1112&fmt=png-alpha&.v=1645552346288",
+      "price": "$44.98",
+      "description": "Apple iPhone 13 Pro Max 256 GB 143442 ",
+      "rates": "5",
+      "size": ["S", "M", "L", "XL"],
+
+      "reviews": [
+        "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad minima fugit quas architecto porro numquam ex nobis omnis excepturi blanditiis.",
+        "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad minima fugit quas architecto porro numquam ex nobis omnis excepturi blanditiis.",
+        "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad minima fugit quas architecto porro numquam ex nobis omnis excepturi blanditiis."
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Black Dress",
+      "image": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/ff/P00528222.jpg",
+      "price": "$99.00",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nesciunt, rerum perspiciatis. Distinctio delectus nostrum.Nesciunt, rerum perspiciatis. ",
+      "rates": "1",
+      "size": ["S", "M", "L", "XL"],
+
+      "reviews": [
+        "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad minima fugit quas architecto porro numquam ex nobis omnis excepturi blanditiis.",
+        "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad minima fugit quas architecto porro numquam ex nobis omnis excepturi blanditiis.",
+        "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad minima fugit quas architecto porro numquam ex nobis omnis excepturi blanditiis."
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Premium Plan",
+      "image": "https://tinypng.com/images/social/website.jpg",
+      "price": "$111.00",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nesciunt, rerum perspiciatis. Distinctio delectus nostrum.Nesciunt, rerum perspiciatis. ",
+      "rates": "4",
+      "size": ["S", "M", "L", "XL"],
+
+      "reviews": [
+        "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad minima fugit quas architecto porro numquam ex nobis omnis excepturi blanditiis.",
+        "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad minima fugit quas architecto porro numquam ex nobis omnis excepturi blanditiis.",
+        "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad minima fugit quas architecto porro numquam ex nobis omnis excepturi blanditiis."
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Premium Plan",
+      "image": "https://tinypng.com/images/social/website.jpg",
+      "price": "$222.00",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nesciunt, rerum perspiciatis. Distinctio delectus nostrum.Nesciunt, rerum perspiciatis. ",
+      "rates": "4",
+      "size": ["S", "M", "L", "XL"],
+
+      "reviews": [
+        "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad minima fugit quas architecto porro numquam ex nobis omnis excepturi blanditiis.",
+        "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad minima fugit quas architecto porro numquam ex nobis omnis excepturi blanditiis.",
+        "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad minima fugit quas architecto porro numquam ex nobis omnis excepturi blanditiis."
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Premium Plan",
+      "image": "https://tinypng.com/images/social/website.jpg",
+      "price": "$333.00",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nesciunt, rerum perspiciatis. Distinctio delectus nostrum.Nesciunt, rerum perspiciatis. ",
+      "rates": "4",
+      "size": ["S", "M", "L", "XL"],
+
+      "reviews": [
+        "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad minima fugit quas architecto porro numquam ex nobis omnis excepturi blanditiis.",
+        "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad minima fugit quas architecto porro numquam ex nobis omnis excepturi blanditiis.",
+        "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad minima fugit quas architecto porro numquam ex nobis omnis excepturi blanditiis."
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Premium ",
+      "image": "https://tinypng.com/images/social/website.jpg",
+      "price": "$444.00",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nesciunt, rerum perspiciatis. Distinctio delectus nostrum.Nesciunt, rerum perspiciatis. ",
+      "rates": "4",
+      "size": ["S", "M", "L", "XL"],
+
+      "reviews": [
+        "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad minima fugit quas architecto porro numquam ex nobis omnis excepturi blanditiis.",
+        "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad minima fugit quas architecto porro numquam ex nobis omnis excepturi blanditiis.",
+        "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad minima fugit quas architecto porro numquam ex nobis omnis excepturi blanditiis."
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Premium Plan",
+      "image": "https://tinypng.com/images/social/website.jpg",
+      "price": "$555.00",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nesciunt, rerum perspiciatis. Distinctio delectus nostrum.Nesciunt, rerum perspiciatis. ",
+      "rates": "4",
+      "size": ["S", "M", "L", "XL"],
+
+      "reviews": [
+        "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad minima fugit quas architecto porro numquam ex nobis omnis excepturi blanditiis.",
+        "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad minima fugit quas architecto porro numquam ex nobis omnis excepturi blanditiis.",
+        "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad minima fugit quas architecto porro numquam ex nobis omnis excepturi blanditiis."
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Premium Plan",
+      "image": "https://tinypng.com/images/social/website.jpg",
+      "price": "$666.00",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nesciunt, rerum perspiciatis. Distinctio delectus nostrum.Nesciunt, rerum perspiciatis. ",
+      "rates": "4",
+      "size": ["S", "M", "L", "XL"],
+
+      "reviews": [
+        "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad minima fugit quas architecto porro numquam ex nobis omnis excepturi blanditiis.",
+        "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad minima fugit quas architecto porro numquam ex nobis omnis excepturi blanditiis.",
+        "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad minima fugit quas architecto porro numquam ex nobis omnis excepturi blanditiis."
+      ]
+    },
+    {
+      "id": "14",
+      "name": "AAAA",
+      "image": "https://tinypng.com/images/social/website.jpg",
+      "price": "$77.00",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nesciunt, rerum perspiciatis. Distinctio delectus nostrum.Nesciunt, rerum perspiciatis. ",
+      "rates": "4",
+      "size": ["S", "M", "L", "XL"],
+
+      "reviews": [
+        "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad minima fugit quas architecto porro numquam ex nobis omnis excepturi blanditiis.",
+        "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad minima fugit quas architecto porro numquam ex nobis omnis excepturi blanditiis.",
+        "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad minima fugit quas architecto porro numquam ex nobis omnis excepturi blanditiis."
+      ]
+    },
+    {
+      "id": "15",
+      "name": "BBB",
+      "image": "https://tinypng.com/images/social/website.jpg",
+      "price": "$111.00",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nesciunt, rerum perspiciatis. Distinctio delectus nostrum.Nesciunt, rerum perspiciatis. ",
+      "rates": "4",
+      "size": ["S", "M", "L", "XL"],
+
+      "reviews": [
+        "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad minima fugit quas architecto porro numquam ex nobis omnis excepturi blanditiis.",
+        "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad minima fugit quas architecto porro numquam ex nobis omnis excepturi blanditiis.",
+        "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad minima fugit quas architecto porro numquam ex nobis omnis excepturi blanditiis."
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Premium Plan",
+      "image": "https://tinypng.com/images/social/website.jpg",
+      "price": "$999.000",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nesciunt, rerum perspiciatis. Distinctio delectus nostrum.Nesciunt, rerum perspiciatis. ",
+      "rates": "4",
+      "size": ["S", "M", "L", "XL"],
+
+      "reviews": [
+        "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad minima fugit quas architecto porro numquam ex nobis omnis excepturi blanditiis.",
+        "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad minima fugit quas architecto porro numquam ex nobis omnis excepturi blanditiis.",
+        "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad minima fugit quas architecto porro numquam ex nobis omnis excepturi blanditiis."
+      ]
+    }
+  ]
+}
