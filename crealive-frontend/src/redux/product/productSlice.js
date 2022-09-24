@@ -2,7 +2,7 @@ import { createSlice,createAsyncThunk } from "@reduxjs/toolkit";
 import axios from 'axios';
 
 export const getProductsAsync = createAsyncThunk('products/getProductsAsync',async()=>{
-  const res = await axios.get('http://localhost:5000/products')
+  const res = await axios.get('https://shoppinglisahmet.herokuapp.com/products')
   return res.data;
 
 })
